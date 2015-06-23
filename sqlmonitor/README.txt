@@ -1,5 +1,5 @@
 Минимальные требования к операционной системе:
-  Windows Vista
+  Windows Vista.
 
 Перечень файлов:
   sqlmonitor.exe - GUI утилита для отображения изменений в sqlsniffer.log файле
